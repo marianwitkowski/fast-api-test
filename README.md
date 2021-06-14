@@ -1,1 +1,1 @@
-# fast-api-test
+# REST API z wykorzystaniem FastAPI
